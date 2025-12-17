@@ -108,9 +108,9 @@ const Contact = () => {
             </div>
           </div>
           <div className="xl:col-span-7 min-h-96">
-            <div className="bg-[#cd7c2e] w-full h-full hover:cursor-grab rounded-3xl overflow-hidden">
+            <div className="bg-[#120B28] w-full h-full hover:cursor-grab rounded-5xl overflow-hidden">
               {/* <ContactExperience /> */}
-              <img src="https://i.pinimg.com/736x/1d/29/71/1d2971755908f5a340f4b4b3f63a6efd.jpg" style={{height:"100%",width:"100%",objectFit:"cover"}}/>
+              <img src="https://i.pinimg.com/736x/1d/29/71/1d2971755908f5a340f4b4b3f63a6efd.jpg" style={{borderRadius:"50px",height:"55%",width:"100%",objectFit:"cover"}}/>
             </div>
           </div>
         </div>
