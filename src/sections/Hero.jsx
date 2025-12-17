@@ -64,7 +64,7 @@ const Hero = () => {
         {/* RIGHT: 3D Model or Visual */}
         <figure>
           <div className="hero-3d-layout">
-            <img src="../../public/images/time.jpg" style={{borderRadius: "50px",height:700,position:"absolute" ,top:"50%",left:"50%",transform:"translate(-50%, -50%)",zIndex:1  ,objectFit:"cover" ,width:"600px",borderRadius:"10px"}}/>
+            <img src="../../public/images/time.jpg" style={{borderRadius:"50px",height:700,position:"absolute" ,top:"50%",left:"50%",transform:"translate(-50%, -50%)",zIndex:1  ,objectFit:"cover" ,width:"600px",borderRadius:"10px"}}/>
           </div>
         </figure>
       </div>
