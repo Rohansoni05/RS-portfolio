@@ -110,7 +110,7 @@ const Contact = () => {
           <div className="xl:col-span-7 min-h-96">
             <div className="bg-[#cd7c2e] w-full h-full hover:cursor-grab rounded-3xl overflow-hidden">
               {/* <ContactExperience /> */}
-              <img src="https://i.pinimg.com/1200x/25/bc/92/25bc92763ad35c08dcfd998b26bc8975.jpg" style={{height:"100%",width:"100%",objectFit:"cover"}}/>
+              <img src="https://i.pinimg.com/736x/1d/29/71/1d2971755908f5a340f4b4b3f63a6efd.jpg" style={{height:"100%",width:"100%",objectFit:"cover"}}/>
             </div>
           </div>
         </div>
