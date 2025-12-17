@@ -268,6 +268,7 @@ const socialImgs = [
   {
     name: "linkedin",
     imgPath: "/images/linkedin.png",
+     link: "https://www.linkedin.com/in/rohan-soni-56649a395",
   },
 ];
 
