@@ -60,11 +60,24 @@ const Hero = () => {
               id="work"/>
           </div>
         </header>
+        <a
+  href="https://www.instagram.com/itz.rohan.soni/"
+  target="_blank"
+  className="text-blue-500 underline"
+>
+  Test Instagram Link
+</a>
 
         {/* RIGHT: 3D Model or Visual */}
         <figure>
           <div className="hero-3d-layout">
-            <img src="https://i.pinimg.com/1200x/c3/57/63/c35763d1f4ce31e4519a49f99334273e.jpg" style={{height:700,position:"absolute" ,top:"50%",left:"50%",transform:"translate(-50%, -50%)",zIndex:1  ,objectFit:"cover" ,width:"600px"}}/>
+             <img src="/images/techno.jpg"   className="absolute top-1/2 left-1/2 w-[600px] h-[700px] -translate-x-1/2 -translate-y-1/2 object-cover"
+  style={{
+    WebkitMaskImage:
+      "linear-gradient(to right, transparent, black 20%, black 80%, transparent)",
+    maskImage:
+      "linear-gradient(to right, transparent, black 20%, black 80%, transparent)",
+  }}/>
           </div>
         </figure>
       </div>

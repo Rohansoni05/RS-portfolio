@@ -255,6 +255,7 @@ const socialImgs = [
   {
     name: "insta",
     imgPath: "/images/insta.png",
+         link: "https://www.instagram.com/itz.rohan.soni/",
   },
   {
     name: "fb",
