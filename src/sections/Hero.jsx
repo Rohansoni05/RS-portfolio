@@ -60,13 +60,13 @@ const Hero = () => {
               id="work"/>
           </div>
         </header>
-        <a
+        {/* <a
   href="https://www.instagram.com/itz.rohan.soni/"
   target="_blank"
   className="text-blue-500 underline"
 >
   Test Instagram Link
-</a>
+</a> */}
 
         {/* RIGHT: 3D Model or Visual */}
         <figure>
